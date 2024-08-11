@@ -3,3 +3,4 @@
 version de node: 10.2.4
 
 /Rick VUE/Rick     //Despliega estando parado en esa ruta con el comando npm run serve
+                   si se desea abrir por un puerto en esecifico el comando es npm run serve -o --port aqui_el_numero_de_puerto
