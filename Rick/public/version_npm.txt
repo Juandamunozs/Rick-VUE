@@ -1,0 +1,3 @@
+/Rick VUE/Rick       //Cuanto se este parado en esa ruta instalar npm para los node_modules
+
+version de node: 10.2.4
